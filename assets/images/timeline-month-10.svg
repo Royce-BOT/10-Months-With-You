@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5D5DD"/>
+      <stop offset="100%" stop-color="#C97B90"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <path d="M300 420 C 220 350, 140 300, 140 220 C 140 170, 180 140, 220 140 C 255 140, 285 165, 300 195 C 315 165, 345 140, 380 140 C 420 140, 460 170, 460 220 C 460 300, 380 350, 300 420 Z" fill="#ffffff" opacity="0.55"/>
+  <text x="300" y="500" font-family="Georgia, serif" font-size="28" fill="#ffffff" text-anchor="middle" opacity="0.9">Month 10 Photo</text>
+</svg>
